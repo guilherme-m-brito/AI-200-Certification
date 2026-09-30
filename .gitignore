@@ -1,0 +1,15 @@
+# Perfil de autenticacao isolado do Azure CLI (contem tokens) — NUNCA versionar
+.azure-ai200/
+
+# Arquivos de ambiente gerados pelo azdeploy.py (nome de ACR, assinatura, etc.)
+.env
+.env.ps1
+
+# Artefatos de build .NET
+bin/
+obj/
+*.user
+
+# Saidas temporarias de verificacao
+build-output.txt
+test-output.json

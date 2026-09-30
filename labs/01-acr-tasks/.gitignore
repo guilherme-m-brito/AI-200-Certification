@@ -1,0 +1,5 @@
+bin/
+obj/
+*.user
+build-output.txt
+test-output.json
